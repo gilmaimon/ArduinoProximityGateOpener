@@ -1,4 +1,4 @@
-# ArduinoProximityGateOpener
+# Arduino Proximity Gate-Opener
 Arduino based garage opener for my home garage door.
 The project consists of 2 parts: 
 - A transimtter (Beacon) - a device placed in the car and transmits a signal in fixed intervals.
