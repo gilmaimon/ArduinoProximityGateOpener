@@ -1,0 +1,5 @@
+Debug/
+__vm/
+*.cpp.old
+*.componentinfo.xml
+*.cppproj
